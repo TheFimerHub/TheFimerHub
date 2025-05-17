@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Stepanov</h1>
-<h3 align="center">College student Singularity Hub, backend developer</h3>
+<h3 align="center">College student Singularity Hub, designer, frontend and backend developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
